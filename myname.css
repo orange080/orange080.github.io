@@ -1,0 +1,42 @@
+/*余白を消す*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 14px;
+	background-color: Bisque; 
+	border: 100px;
+	border-color: blue;
+	}
+img {
+  max-width: 360px;
+}
+h1{
+	font-size: 40px;
+	font-family: "ＭＳＰゴシック",cursive;
+}
+h2{
+	font-size: 20px;
+}
+p{
+	font-size: 16px;
+	line-height: -5px;
+}
+strong{
+	color: red;
+}
+footer {
+	text-align: center;
+		}
+copyright {
+	padding: 20px 0;
+	font-size: 12px;
+	color: #666;
+			}
+
+.container {
+  max-width: 1200px;
+  margin: 60px auto 0;
+  background-color: #fff;
+}
